@@ -42,7 +42,7 @@ To get started with the SocialSphere Server, follow these steps:
 
 ## API Documentation
 
-For detailed API documentation, including available endpoints, request and response formats, please refer to the [API Documentation](API_DOCS.md) file.
+For detailed API documentation, including available endpoints, request and response formats, please refer to the [API Documentation](https://socialspheredocumentation.vercel.app/) file.
 
 ## Contributing
 
